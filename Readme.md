@@ -24,8 +24,7 @@ cd path/to/Picture_Compress
 python3 script.py path/to/Picture_to_compress.jpg path/to/Compressed_Picture.jpg [quality]
 ```
 
-`
-path/to/Picture_to_compress.jpg -> need to be a string AND a valid path with the correct extension
-path/to/Compressed_Picture.jpg -> need to be a string AND a valid path with the correct extension
-[quality] -> need to be a integer and is optional.
-`
+
+- path/to/Picture_to_compress.jpg -> need to be a string AND a valid path with the correct extension
+- path/to/Compressed_Picture.jpg -> need to be a string AND a valid path with the correct extension
+- [quality] -> need to be a integer and is optional.
